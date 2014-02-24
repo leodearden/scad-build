@@ -1,0 +1,3 @@
+[submodule "fabricate"]
+	path = fabricate
+	url = https://github.com/pjz/fabricate.git
